@@ -25,7 +25,7 @@
 /** Homepage 01 **/
 .about-one-leftbox{
 	position: relative;
-	background-image: url(../images/homepage-1/about-mask-img.jpg);
+	background-image: url(../images/newImg/about-mask-img.jpg);
     background-position: center center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -1430,7 +1430,7 @@
 }
 .about-us-section-seven .about-us-right-box{
 	position: relative;
-	background-image: url(../images/homepage-7/bg/col-bg-img-03.png);
+	background-image: url(../images/newImg/col-bg-img-03.png);
     background-position: center right;
     background-repeat: no-repeat;
 	margin-left: 20px;
