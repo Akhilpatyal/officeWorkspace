@@ -1265,7 +1265,7 @@
 	padding: 0 30px;
 }
 .portfolio-section-seven .pbmit-portfolio-heading-wrapper{
-	background-image: url(../images/homepage-7/bg/portfolio-pattern.png);
+	background-image: url(../images/newImg/portfolio-pattern.png);
     background-position: bottom right;
     background-repeat: no-repeat;
     background-size: auto;
@@ -1304,7 +1304,7 @@
 	box-shadow: -1px 20px 0 0 var(--pbmit-white-color);
 }
 .testimonial-seven-bg{
-	background-image: url(../images/homepage-7/bg/testimonial-pattern-bg.png);
+	background-image: url(../images/newImg/testimonial-pattern-bg.png);
     background-position: center right;
     background-repeat: no-repeat;
 	padding: 120px 15px 120px 15px;
@@ -1399,7 +1399,7 @@
 }
 .about-us-section-seven .about-us-center-box{
 	position: relative;
-	background-image: url(../images/homepage-7/bg/col-bg-img-02.png);
+	background-image: url(../images/newImg/col-bg-img-02.png);
     background-position: top right;
     background-repeat: no-repeat;
     background-size: cover;
