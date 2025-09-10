@@ -1,34 +1,4 @@
-/******************************
 
-    INDEX:
-
-    00 - Section Title
-    01 - Icon Box
-    02 - Team Member
-    03 - Counter
-    04 - Service
-    05 - Blog
-    06 - Testimonial
-    07 - Header
-    08 - Footer
-    09 - Title Bar
-    10 - Overlap Colomn
-    11 - Accordion
-    12 - Circle Progress
-    13 - List Group
-    14 - Portfolio
-    15 - Client
-    16 - Pricing
-	17 - Sortable
-    18 - Img Animation
-	19 - Marquee
-    20 - Tab
-    21 - Banner Slider
-	22 - Progress Bar
-	23 - Static Box
-	24 - Cursor
-
-******************************/
 
 body {
     counter-reset: pbmitbox1 pbmitbox2 pbmitbox3 pbmitbox4;
@@ -4697,6 +4667,7 @@ body {
 	width: 70px;
 	height: 70px;
 	border-radius: 100%;
+	object-fit: cover;
 }
 .pbmit-testimonial-style-7 .pbmit-featured-wrapper{
 	border-radius: 50px 50px 0 0;
@@ -8008,10 +7979,11 @@ body {
 	background-color: var(--pbmit-global-color);
 }
 .pbmit-slider-seven .pbmit-slider-content .pbmit-title{
-	font-size: 80px;
+	font-size: 70px;
 	line-height: 80px;
 	font-weight: 600;
 	color: #fff;
+	font-family: Georgia;
 }
 .pbmit-slider-seven .pbmit-slider-content .pbmit-desc{
 	font-size: 18px;
