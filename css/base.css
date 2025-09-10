@@ -411,7 +411,7 @@
      background-color: var(--pbmit-global-color);
 }
  body .pbmit-bg-color-secondary{
-     background-color: #161616;
+     background-color: #161616fa;
 }
  body .pbmit-bg-color-light{
      background-color: var(--pbmit-light-color);
