@@ -3185,7 +3185,7 @@ aside.widget.widget-tag-cloud a:hover,
     width: 100%;
 }
 .contact-form-area{
-	padding: 50px 65px 40px 65px;
+padding: 35px 50px 35px 50px;
 	border-radius: 30px;
 	margin: 10px 0px;
 	background-color: var(--pbmit-light-color);
