@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap" rel="stylesheet');
 @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300..700&display=swap" rel="stylesheet');
  :root {
-     --pbmit-global-color: #bb9a65;
+     --pbmit-global-color: #FF8000 ;
      --pbmit-secondary-color: #403226;
      --pbmit-light-color: #f6f6f6;
 	 --pbmit-light-color-2: #f8f8f8;
@@ -10,10 +10,10 @@
 	 --pbmit-light-color-rgb: 246,246,246;
      --pbmit-white-color: #ffffff;
 	 --pbmit-white-color-rgb: 255,255,255;
-     --pbmit-blackish-color: #403226;
+     --pbmit-blackish-color: #130900;
 	 --pbmit-blackish-color-rgb: 64, 50, 38; 
      --pbmit-link-color-normal: #403226;
-     --pbmit-link-color-hover: #bb9a65;
+     --pbmit-link-color-hover: #FF8000 ;
      --pbmit-global-color-rgb: 187, 154, 101;
      --pbmit-secondary-color-rgb: 64, 50, 38;
      --pbmit-responsive-breakpoint: 1200px;
@@ -25,7 +25,7 @@
      --pbmit-body-typography-color: #666666;
 
      --pbmit-heading-typography-font-family:"Space Grotesk", sans-serif;
-     --pbmit-heading-color: #403226;
+     --pbmit-heading-color: #130900;
      --pbmit-heading-font-variant: 700;
 
      --pbmit-btn-typography-font-family:"Space Grotesk", sans-serif;
@@ -292,7 +292,7 @@
     left: auto;
     width: 50px;
     height: 50px;
-    background-color: var(--pbmit-global-color);
+    background-color: #FF8000;
     color: var(--pbmit-white-color);
     top: 0;
     border-radius: 50%;
@@ -347,12 +347,13 @@
 	transform: translate3d(10px, 0, 0) rotateZ(45deg);
 }
 .pbmit-btn-outline{
-	color: var(--pbmit-global-color);
+	color: #160b00; 
 	background-color: transparent;
 	border: 1px solid rgba(var(--pbmit-blackish-color-rgb),.2);
+    font-family: Georgia;
 }
 .pbmit-btn-outline:hover{
-	color: var(--pbmit-blackish-color);
+	color:#FF8000;
 }
 .pbmit-btn-color-blackish .pbmit-btn{
 	color: var(--pbmit-blackish-color);
@@ -381,7 +382,7 @@
 }
 .pbmit-btn-blackish{
 	color: var(--pbmit-white-color);
-	background-color: var(--pbmit-blackish-color);
+	background-color: #FF8000;
 }
 .pbmit-btn-blackish:hover{
 	color: var(--pbmit-white-color);
@@ -410,7 +411,7 @@
      background-color: var(--pbmit-global-color);
 }
  body .pbmit-bg-color-secondary{
-     background-color: var(--pbmit-secondary-color);
+     background-color: #161616;
 }
  body .pbmit-bg-color-light{
      background-color: var(--pbmit-light-color);
@@ -422,7 +423,7 @@
 	background-color: var(--pbmit-light-color-3);
 }
  body .pbmit-bg-color-blackish{
-     background-color: var(--pbmit-blackish-color);
+     background-color: #222222;
 }
  body .pbmit-color-global{
      color: var(--pbmit-global-color);
@@ -534,7 +535,7 @@ body .pbmit-color-blackish{
 	 align-items: center;
 	 text-transform: none;
      letter-spacing: 0px;
-     color: var(--pbmit-blackish-color);
+     color: #130900;
      font-family: Georgia;
 }
 .site-navigation ul.navigation > li > a:hover:after{

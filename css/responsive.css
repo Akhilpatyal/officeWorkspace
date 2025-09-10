@@ -4296,7 +4296,7 @@ body {
 	}	
 	.site-navigation ul.navigation > li.active > a,
 	.site-navigation ul.navigation > li > a:hover{
-		color: var(--pbmit-global-color);
+		color: #FF8000 ;
    	}
 	.main-menu .navigation > li > ul , .main-menu .navigation > li > ul > li > ul {
 		min-width: 250px;
@@ -4654,7 +4654,7 @@ body {
         font-weight: 400;
         font-family: "pbminfotech-base-icons";
         background-color: var(--pbmit-light-color-3);
-        color: var(--pbmit-global-color);
+        color: #FF8000 ;
         border-radius: 50%;
         text-align: center;
         margin-right: 10px;
